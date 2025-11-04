@@ -8,7 +8,7 @@ The state of Texas has a robust data reporting system, which includes monthly re
 
 The notebook "analysis.ipynb" uses all of the data in the data folder to produce graphs and images found in graphs. 
 
-![Sample Screenshot of Final Report](../images/report_sample.png)
+![Sample Screenshot of Final Report](images/report_sample.png)
 
 ## Data Sources
 
