@@ -37,11 +37,13 @@ By and large, the older someone is in prison, their average sentence length and 
 
 20% of Texas's prisoners are in some stage of parole review. The highest proportion of those in parole review relative to the rest of their age group
 is for the 30-40 and 40-50 groups, which are also the highest population deciles in the system. The proportion dwindles more as the deciles get older,
-until only a small amount of those over 70 are in the review process at all. This means that the oldest groups may consist of people with some of the
-longest sentences. [54.8% of people on death row](https://deathpenaltyinfo.org/death-row/death-row-time-on-death-row) across all of the United States are 50 years or older,
-and they often spend decades waiting on appeals for their cases. 
+until only a small amount of those over 70 are in the review process at all.
 
 ![](../images/parole_review.svg){fig-align="center"}
+
+This means that the oldest groups may consist of people with some of the
+longest sentences. [54.8% of people on death row](https://deathpenaltyinfo.org/death-row/death-row-time-on-death-row) across all of the United States are 50 years or older,
+and they often spend decades waiting on appeals for their cases. 
 
 :::: {.columns}
 
@@ -71,7 +73,7 @@ Most of the smaller facilities with between 500 to 1,500 prisoners did not have 
 The facility with the highest staff to resident ratio is the John Montford Unit in Lubbock, which is a psychiatric facility.
 
 As of 2024, [25% of Texas's guard positions](https://www.texastribune.org/2024/09/11/texas-prisons-staffing-shortages-heat/) are unfilled. Like with the case of
-Patrick Womack, this causes inmate needs to go unmet. Some prisoners have been unable to [take showers for months] (https://prisonjournalismproject.org/2024/04/18/what-happens-prison-chronically-short-staffed/#:~:text=Over%20a%20decade%20in%20solitary,prison%20system%20sees%20me%3A%20worthless).
+Patrick Womack, this causes inmate needs to go unmet. Some prisoners have been unable to [take showers for months](https://prisonjournalismproject.org/2024/04/18/what-happens-prison-chronically-short-staffed/#:~:text=Over%20a%20decade%20in%20solitary,prison%20system%20sees%20me%3A%20worthless).
 Given that so many elderly inmates reside in facilities with larger headcounts but low staff numbers, this could mean that passive and urgent needs go unmet.
 
 ![](../images/facility_scatterplot.svg)
